@@ -33,39 +33,7 @@ Implement a **linear regression model** to predict the prices of houses based on
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
 
-### 🔹 Sale Price Distribution
-
-> 📷 *Insert Histogram of Sale Price here*
-
-![Sale Price Distribution](images/sale_price_distribution.png)
-
-### 🔹 Feature Relationships
-
-- `GrLivArea` vs `SalePrice`
-- `Bedrooms` vs `SalePrice`
-- `TotalBathrooms` vs `SalePrice`
-
-> 📷 *Insert scatter and box plots here*
-
-![Feature vs Target](images/feature_relationships.png)
-
-### 🔹 Correlation Heatmap
-
-> 📷 *Insert heatmap showing correlation between features and target*
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
----
-
-## 🤖 Model Building
-
-- Model: `LinearRegression` from Scikit-Learn
-- Train-Test Split: `80% - 20%`
-- Feature Scaling applied using `StandardScaler`
-
----
 
 ## 📈 Model Evaluation
 
@@ -81,7 +49,7 @@ Implement a **linear regression model** to predict the prices of houses based on
 
 > 📷 *Insert Actual vs Predicted and Residual plots here*
 
-![Model Evaluation](images/model_evaluation.png)
+![Model Evaluation](https://github.com/Vijay1097/Prodigy_ML_01/blob/main/output%201.png)
 
 ---
 
